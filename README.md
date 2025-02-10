@@ -1,3 +1,5 @@
+[!Screenshot of a Minecraft character flying past the camera](/assets/banner.png)
+
 # Minecraft Glider Armor
 
 This is a data pack created for Minecraft version 1.21.4, which, taking some inspiration from the Armored Elytra pack made by [Vanilla Tweaks](https://vanillatweaks.net/), adds a new enchantment that enables you to glide around like you're using an Elytra!
