@@ -32,7 +32,7 @@ Here are some quick answers to some questions you might have:
 
 ### Can I include this data pack in a collection, like a mod pack?
 
-Of course! I'd like it if you left a link to this repository somewhere, but ultimately I don't care.
+Of course! I'd appreciate it if you left a link to this repository somewhere too.
 
 ### Can I upload this to abc.xyz?
 
