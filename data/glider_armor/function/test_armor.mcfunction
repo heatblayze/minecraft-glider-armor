@@ -1,0 +1,1 @@
+execute as @a if items entity @s armor.chest *[minecraft:enchantments~[{"enchantment":"glider_armor:glider"}]] unless items entity @s armor.chest *[minecraft:glider={}] run function glider_armor:modify_item
