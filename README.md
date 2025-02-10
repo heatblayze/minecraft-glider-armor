@@ -26,7 +26,7 @@ You can then apply the enchantment to any enchantable chest armor. Once you equi
 
 ## Distribution
 
-This repository is under the MIT license, meaning you can do practically anything. Just don't violate the Minecraft EULA. Ultimately I'm not responsible for anything you do.
+This repository is under the MIT license, meaning you can do practically anything. Maybe don't violate the Minecraft EULA. Ultimately I'm not responsible for anything you do.
 
 Here are some quick answers to some questions you might have:
 
