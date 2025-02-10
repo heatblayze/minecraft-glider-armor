@@ -1,4 +1,4 @@
-[!Screenshot of a Minecraft character flying past the camera](/assets/banner.png)
+![Screenshot of a Minecraft character flying past the camera](/assets/banner.png)
 
 # Minecraft Glider Armor
 
