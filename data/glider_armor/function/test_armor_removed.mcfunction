@@ -1,1 +1,1 @@
-execute as @a if items entity @s armor.chest *[minecraft:glider={}, minecraft:custom_data~{'glider_armor:glider': 'true'}] unless items entity @s armor.chest *[minecraft:enchantments~[{"enchantment":"glider_armor:glider"}]] run function glider_armor:remove_glider
+execute as @a if items entity @s armor.chest *[minecraft:glider={}, minecraft:custom_data~{'glider_armor:glider': 'true'}] unless items entity @s armor.chest *[minecraft:enchantments~[{"enchantments":"glider_armor:glider"}]] run function glider_armor:remove_glider
