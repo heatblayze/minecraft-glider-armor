@@ -1,4 +1,0 @@
-schedule function glider_armor:enchant_tick 1s
-function glider_armor:test_armor
-function glider_armor:test_book
-function glider_armor:test_armor_removed

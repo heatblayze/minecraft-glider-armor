@@ -1,0 +1,2 @@
+# Tests for any item that has the glider component, does not have our enchantment, and we are sure was previously edited by us.
+execute as @a if items entity @s armor.chest *[minecraft:glider={}, minecraft:custom_data~{'glider_armor:glider': 'true'}] unless items entity @s armor.chest *[minecraft:enchantments~[{"enchantments":"glider_armor:glider"}]] run function glider_armor:enchant/remove_glider_enchantment

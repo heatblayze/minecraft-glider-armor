@@ -1,4 +1,4 @@
 {
     "replace": false,
-    "values": ["glider_armor:enchant_tick"]
+    "values": ["glider_armor:on_load"]
 }

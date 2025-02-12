@@ -1,0 +1,1 @@
+data modify storage glider_armor:storage allow_other_gliders set value false
