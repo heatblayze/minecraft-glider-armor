@@ -1,2 +1,2 @@
-# Tests for any chest armor that has the glider component and does not have our enchantment. Don't use this unless you know what you're doing.
-execute as @a if items entity @s armor.chest *[minecraft:glider={}] unless items entity @s armor.chest *[minecraft:enchantments~[{"enchantments":"glider_armor:glider"}]] run function glider_armor:enchant/remove_glider_unsafe
+# Tests for any chest armor (except elytra) that has the glider component and does not have our enchantment. Don't use this unless you know what you're doing.
+execute as @a unless items entity @s armor.chest minecraft:elytra if items entity @s armor.chest *[minecraft:glider={}] unless items entity @s armor.chest *[minecraft:enchantments~[{"enchantments":"glider_armor:glider"}]] run function glider_armor:enchant/remove_glider_unsafe
